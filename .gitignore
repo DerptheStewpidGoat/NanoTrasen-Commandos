@@ -1,0 +1,11 @@
+data/**/*
+config/**/*
+
+*.dmb
+*.rsc
+*.lk
+*.int
+*.db
+
+tools/Runtime\ Condenser/Output.txt
+tools/Runtime\ Condenser/Input.txt
